@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646456051928",
+    "project_id": "admackapizza",
+    "storage_bucket": "admackapizza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646456051928:android:898db8db58037dcb2eafad",
+        "android_client_info": {
+          "package_name": "com.example.ackapizza_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35UjvthNmZu3-HDifPfJupoNCKhgHes8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646456051928:android:127f6141a6bd3d302eafad",
+        "android_client_info": {
+          "package_name": "com.example.project_web_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35UjvthNmZu3-HDifPfJupoNCKhgHes8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
